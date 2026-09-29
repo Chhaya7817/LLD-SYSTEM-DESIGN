@@ -1,0 +1,14 @@
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/bin/Debug/net10.0/FOOD-DELIVERY-APP
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/bin/Debug/net10.0/FOOD-DELIVERY-APP.deps.json
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/bin/Debug/net10.0/FOOD-DELIVERY-APP.runtimeconfig.json
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/bin/Debug/net10.0/FOOD-DELIVERY-APP.dll
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/bin/Debug/net10.0/FOOD-DELIVERY-APP.pdb
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.AssemblyInfoInputs.cache
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.AssemblyInfo.cs
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.csproj.CoreCompileInputs.cache
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.dll
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/refint/FOOD-DELIVERY-APP.dll
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.pdb
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/FOOD-DELIVERY-APP.genruntimeconfig.cache
+/Users/manishchahar/Chhaya/LLD-SYSTEM-DESIGN/FOOD-DELIVERY-APP/obj/Debug/net10.0/ref/FOOD-DELIVERY-APP.dll
